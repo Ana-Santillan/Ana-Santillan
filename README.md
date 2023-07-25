@@ -23,8 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ana-santillan&show_icons=true&locale=en&layout=compact" alt="ana-santillan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ana-santillan&show_icons=true&locale=en" alt="ana-santillan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ana-santillan&" alt="ana-santillan" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ana-santillan" alt="ana-santillan" />
