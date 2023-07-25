@@ -14,8 +14,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ana-luz-santill%C3%A1n](https://www.linkedin.com/in/ana-luz-santill%C3%A1n)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/ana-luz-santill%C3%A1n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-luz-santill%c3%a1n/" height="30" width="40" /></a>
+<p align="left" dir="auto">
+<a href="[www.linkedin.com/in/ana-luz-santill%C3%A1n](https://www.linkedin.com/in/ana-luz-santill%C3%A1n)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-luz-santill%c3%a1n/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
